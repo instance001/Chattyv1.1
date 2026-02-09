@@ -1,11 +1,11 @@
-# Chattyv1.1
+﻿# Chattyv1.1
 Chatty is a fully offline AI assistant built with Mistral, Ollama, and a structured ethical capsule. This is the v1.1 release, which introduces log persistence and conversational functionality. Free, local, unshackled.
 
 # Relicensing Notice
 
 **Effective Date:** 30 november 2025  
 **New License:** GNU Affero General Public License v3.0 (AGPL-3.0)  
-**Previous License:**  CC-BY-SA 4.0
+**Previous License:** pre-AGPL (see repository history)
 
 ---
 
